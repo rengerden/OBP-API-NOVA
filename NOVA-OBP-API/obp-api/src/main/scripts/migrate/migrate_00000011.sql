@@ -1,1 +1,0 @@
-update viewimpl set isFirehose_=TRUE;
