@@ -1,0 +1,8 @@
+2019-08-02 22:50:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "CONSUMER" no encontrada
+Table "CONSUMER" not found; SQL statement:
+SELECT COUNT(DISTINCT developeremail) FROM Consumer; [42102-191]
+2019-08-02 22:50:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "CONSUMER" no encontrada
+Table "CONSUMER" not found; SQL statement:
+SELECT COUNT(DISTINCT name) FROM Consumer; [42102-191]
